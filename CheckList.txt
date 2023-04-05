@@ -1,0 +1,43 @@
+1. SpeedLimit 20
+2. SpeedLimit 30
+3. SpeedLimit 50
+4. SpeedLimit 60
+5. SpeedLimit 70
+6. SpeedLimit 80
+7. SpeedLimit Off 80
+8. SpeedLimit 100
+9. SpeedLimit 120
+10. No overtaking
+11. Trucks are not allowed to overtake
+12. Intersection with secondary road
+13. The main road
+14. Give way
+15. Stop
+16. Movement Prohibition
+17. Truck traffic is prohibited
+18. No entry
+19. Other hazards
+20. Dangerous bend in left
+21. Dangerous bend in rigth
+22. Dangerous turns
+23. Rough road
+24. Slippery road
+25. Road narrows in left
+26. Road repair
+27. Traffic light
+28. No Pedestrians
+29. Kids
+30. Bicycles are prohibited
+31. Icing Hazard
+32. Wild animals
+33. End of the zone of all restrictions
+34. Mandatory direction of travel in rigth
+35. Mandatory direction of travel in left
+36. Mandatory direction of travel in ahead
+37. Mandatory direction of travel in ahead and rigth
+38. Mandatory direction of travel in ahead and left
+39. Obstacle Avoidance Direction in rigth
+40. Obstacle Avoidance Direction in left
+41. Roundabout Circulation
+42. End of no-overtaking zone
+43. End of no-overtaking zone for trucks
